@@ -1,0 +1,70 @@
+* {
+    margin:0;
+    padding:0; 
+}
+header {
+    background-color: rgb(243, 243, 245);
+}
+
+div img {
+    height: 100px;
+    width: 100px;
+
+}
+
+
+footer {
+    background-color: rgb(228, 226, 228);
+}
+
+
+nav {
+    font-size: 25px;
+    font-weight: bolder;
+    text-align: center;
+    text-decoration: none;
+    list-style-type:none;
+}
+
+div {
+    text-align: center;
+}
+
+.centrarTexto { 
+
+    text-align: center
+}
+
+img {
+    display: inline-block;  
+    
+}
+
+.TextoDerecha {
+    text-align: right;
+}
+
+.derecha {
+    margin-left: 8cm;
+    display: inline-block;
+  
+}
+
+.izquierda {
+    margin-left: 8cm;
+    display: inline-block;
+  
+}
+
+#btn { 
+    text-align: right;
+}
+#link {
+    font-weight: 900;
+    text-align: right; 
+}
+
+legend {
+    font-weight: bold;
+    text-align: center;
+}
